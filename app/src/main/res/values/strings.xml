@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Imative</string>
+    <string name="filter_select_prompt">Choose a filter</string>
+    <string name="button_open_image">Open Image</string>
+    <string name="button_apply_filter">Apply</string>
+    <string name="button_save_image">Save</string>
+    <string name="filter_setting_hint">Size/Filtermode</string>
+    <string name="progress_message">Please wait. Depending on the image size, this can take a minute or two.</string>
+
+    <string-array name="filter_select_entries">
+        <item>Carré</item>
+        <item>Canny</item>
+        <item>Sobel</item>
+        <item>Gauss-Blur</item>
+    </string-array>
+</resources>
